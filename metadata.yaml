@@ -1,0 +1,52 @@
+_repo: Maankiertajia_74985
+_version: 0.0.1
+alternative_title: Landstrykere. Finnish
+contributor:
+  translator:
+    agent_name: Hirvensalo, Lauri
+    aliases:
+    - Hirvensalo, Lauri A.
+    - Hirvensalo, Lauri Adolf
+    - Lagus, Lauri‏
+    birthdate: 1892
+    deathdate: 1965
+    gutenberg_agent_id: '45059'
+    url: http://www.gutenberg.org/2009/agents/45059
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Hirvensalo
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: The first part of the "August" trilogy.
+gutenberg_issued: '2024-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74985'
+language: fi
+pgterms:marc905: 20241203035022hamsun
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Maankiertäjiä
+url: http://www.gutenberg.org/ebooks/74985
