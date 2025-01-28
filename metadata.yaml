@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '45059'
     url: http://www.gutenberg.org/2009/agents/45059
     wikipedia: https://fi.wikipedia.org/wiki/Lauri_Hirvensalo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamsun, Knut
@@ -30,6 +33,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Knut_Hamsun
     - https://en.wikipedia.org/wiki/Knut_Hamsun
 description: The first part of the "August" trilogy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74985#Maankiertajia
 gutenberg_issued: '2024-12-28'
 gutenberg_type: Text
 identifiers:
